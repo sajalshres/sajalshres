@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello world, I am `<sajalshres/>` 👋
 
-<!--
-**sajalshres/sajalshres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sajal N. Shrestha, Software Developer and DevOps Engineer from Nepal
 
-Here are some ideas to get you started:
+## 📜 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I love writing code and learn anythings about it.
+- I also maintain a blog
+- I teach programming and software development
+- I use Ubuntu as my primary development environment
+
+## ✍ What I'm up to
+
+- I'm currently working on Django.
+- I'm also learning to implement design patterns.
+
+## 🛠 Things I code with
+
+## 📚 Things I am learning
+
