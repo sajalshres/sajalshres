@@ -51,4 +51,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalshres&show_icons=true" alt="sajalshres" /></p>
+## 📊 My GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalshres&show_icons=true&hide_title=true" alt="sajalshres" /></p>
