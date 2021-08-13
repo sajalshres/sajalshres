@@ -25,7 +25,7 @@
 
 - 💼 I'm currently working as **Senior Software Engineer** for **Cotiviti Corporations**
 
-- 🔭 I’m currently working on **Django and BackBoneJS**
+- 🔭 I’m currently working with **Django, FastAPI, VueJS and BackBoneJS**
 
 - 🌱 I’m currently learning to implement different **design patterns**
 
