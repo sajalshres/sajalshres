@@ -94,7 +94,6 @@
 
 <p>
 <img src="assets/dartlang.svg" alt="dart" width="40" height="40"/>
-<img src="assets/rustlang.svg" alt="rust" width="40" height="40"/>
 </p>
 
 ## 📊 My GitHub Stats
