@@ -91,7 +91,7 @@
 ## 📚 Things I am learning
 
 <p>
-<img src="assets/dartlang.svg" alt="dart" width="40" height="40"/>
+<img src="assets/rlang.svg" alt="dart" width="40" height="40"/>
 </p>
 
 ## 📊 My GitHub Stats
