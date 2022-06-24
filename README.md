@@ -23,11 +23,9 @@
 
 ## ✍ What I'm up to
 
-- 💼 I'm currently working as **Senior Software Engineer** for **Cotiviti Corporations**
-
 - 🔭 I’m currently working with **Django, FastAPI, VueJS and BackBoneJS**
 
-- 🌱 I’m currently learning to implement different **design patterns**
+- 🌱 I’m currently learning [Data Science and Analytics](https://www.gvsu.edu/acad/data-science-and-analytics-ms.htm).
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajalshres](https://github.com/sajalshres)
 
